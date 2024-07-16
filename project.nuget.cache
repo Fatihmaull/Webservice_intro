@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B0xBrCC+7kkJuegXIzmCvcFtDwLNH0/1TCg6OiJ/YXriuNi6ez8nZRj0Q/A9OxW83BfafL/RSRgOIgOTMV3mlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Documents\\TUGAS KULIAH\\SEMESTER 2\\Praktikum Algoritma Pemrograman\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
