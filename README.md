@@ -67,7 +67,3 @@ namespace AsyncDataFetch
 ```
 
 This example demonstrates how to perform an asynchronous GET request to a web service and parse the JSON response in C#.
-
----
-
-I hope this explanation helps you understand the content and purpose of the GitHub repository you created.
